@@ -1,0 +1,11 @@
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kryan4\Projects\Birthday Wishes\Birthday Wishes\bin\Debug\Birthday Wishes.exe.config
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kryan4\Projects\Birthday Wishes\Birthday Wishes\bin\Debug\Birthday Wishes.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kryan4\Projects\Birthday Wishes\Birthday Wishes\bin\Debug\Birthday Wishes.pdb
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kryan4\Projects\Birthday Wishes\Birthday Wishes\bin\Debug\Birthday Wishes.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kryan4\Projects\Birthday Wishes\Birthday Wishes\obj\Debug\Birthday Wishes.vbprojResolveAssemblyReference.cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kryan4\Projects\Birthday Wishes\Birthday Wishes\obj\Debug\Birthday_Wishes.BirthdayWishes.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kryan4\Projects\Birthday Wishes\Birthday Wishes\obj\Debug\Birthday_Wishes.Resources.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kryan4\Projects\Birthday Wishes\Birthday Wishes\obj\Debug\Birthday Wishes.vbproj.GenerateResource.Cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kryan4\Projects\Birthday Wishes\Birthday Wishes\obj\Debug\Birthday Wishes.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kryan4\Projects\Birthday Wishes\Birthday Wishes\obj\Debug\Birthday Wishes.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\kryan4\Projects\Birthday Wishes\Birthday Wishes\obj\Debug\Birthday Wishes.pdb
