@@ -5,7 +5,7 @@
 
         'Print Happy Birthday Song to list box
         lstOut.Items.Add("Happy Birthday to You, Happy Birthday to You,")
-        lstOut.Items.Add("Happy Birthday to You,")
+        lstOut.Items.Add("Happy Birthday to Dear " & txtName.Text)
         lstOut.Items.Add("Happy Birthday to You!")
 
     End Sub
